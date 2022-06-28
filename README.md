@@ -15,9 +15,10 @@
 <img src="https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=Amazon&logoColor=white"/></a>
 ---
 ### Dev Note🐔
+
 [Notion](https://regal-quill-bc7.notion.site/03d43be3188147a2839239cb3462057d?v=58cabe0fa18d4393877768391249f658)<br>
 ---
 ![duddn520's GitHub stats](https://github-readme-stats.vercel.app/api?username=duddn520&show_icons=true&theme=vue)
 
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=duddn520&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
