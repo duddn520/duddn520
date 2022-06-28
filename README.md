@@ -1,4 +1,4 @@
-### Hi there 👋
+### 안녕하세요🐧
 ![duddn520's GitHub stats](https://github-readme-stats.vercel.app/api?username=duddn520&show_icons=true&theme=vue)
 
 ### Technical Skills
