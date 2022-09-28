@@ -20,7 +20,7 @@
 ---
 ### Dev Note🐔
 
-[Notion](https://regal-quill-bc7.notion.site/03d43be3188147a2839239cb3462057d?v=58cabe0fa18d4393877768391249f658)
+[Notion](https://regal-quill-bc7.notion.site/f2d15d7f1921401bbb1b14713248f941)
 
 ---
 ![duddn520's GitHub stats](https://github-readme-stats.vercel.app/api?username=duddn520&show_icons=true&theme=vue)
