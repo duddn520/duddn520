@@ -25,7 +25,6 @@
 ---
 ![duddn520's GitHub stats](https://github-readme-stats.vercel.app/api?username=duddn520&show_icons=true&theme=vue)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=duddn520&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
