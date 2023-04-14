@@ -17,15 +17,6 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=Amazon&logoColor=white"/></a>
 
----
-### Dev Note🐔
-
-[Notion](https://regal-quill-bc7.notion.site/f2d15d7f1921401bbb1b14713248f941)
-
----
-![duddn520's GitHub stats](https://github-readme-stats.vercel.app/api?username=duddn520&show_icons=true&theme=vue)
-
-
 </div>
 
 
